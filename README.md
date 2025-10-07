@@ -1,8 +1,10 @@
 # COMP3104_Group1_Assignment
 ## Group Members
 - **Leader:** Kirk Douglas (101401017) - [GitHub](https://github.com/kirkdouglas9000)
-- **Member 2:** Jane Doe (1023456) - [GitHub](https://github.com/janedoe)
+- **Member 2:** Andrei Gania (101478350) - [GitHub](https://github.com/AndreiGania)
 - **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
+- **Member 4:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
+- **Member 5:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on
 collaborative Git workflows, branching strategies, and CI/CD integration.
