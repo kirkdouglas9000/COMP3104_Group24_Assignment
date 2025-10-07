@@ -1,1 +1,2 @@
-. 
+Increase the focus and efficiency of developers, security engineers and systems operators for essential operational workflows. 
+Self-hosted, customizable ChatOps infrastructure streamlines integration across hybrid and in-house tooling and automation.git 
