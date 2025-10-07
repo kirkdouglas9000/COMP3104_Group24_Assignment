@@ -7,3 +7,5 @@ improves code quality, and shortens release cycles. This approach ensures that s
 feedback or changing business needs.
 Learning DevOps equips future developers and IT professionals with the skills to manage modern, scalable, and efficient software 
 pipelines—making them more effective contributors to agile and cloud-based development environments.
+Additionally, DevOps knowledge enhances teamwork by aligning goals between developers, testers, and operations teams, 
+ensuring smoother communication and fewer bottlenecks during deployment
