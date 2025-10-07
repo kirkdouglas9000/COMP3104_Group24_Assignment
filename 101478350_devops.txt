@@ -3,3 +3,6 @@ This DevOps course covers the integration of development and operations to enhan
 Gain insight into the DevOps lifecycle, continuous integration (CI), continuous delivery (CD), deployment pipelines, and the measurement of DevOps 
 success. Examine best practices for managing solution versions, dependencies, and the data flow used to ensure smooth and scalable deployments.
 This course has been designed and developed by George Brown College Continuing Education in partnership with Arcitura.
+Students apply modern DevOps tools such as GitHub, Docker, and CI/CD pipelines to simulate real-world development environments. 
+The course prepares learners to work in agile teams, manage automated workflows, and understand how DevOps supports faster, 
+more reliable software releases.
