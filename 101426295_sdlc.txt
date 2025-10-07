@@ -1,2 +1,3 @@
 Increase the focus and efficiency of developers, security engineers and systems operators for essential operational workflows. 
 Self-hosted, customizable ChatOps infrastructure streamlines integration across hybrid and in-house tooling and automation.git 
+DevOps is a software development methodology, cultural philosophy, and set of practices that emphasizes collaboration, automation, and integration between development and IT operations teams to accelerate software delivery and improve reliability
