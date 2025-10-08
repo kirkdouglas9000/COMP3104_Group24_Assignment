@@ -1,10 +1,14 @@
 COMP3104 - DevOps
 
 Course Description:
-In this course we will learn :
+In this course I will learn :
 - The procedures, protocols and best practices that a DevOps
 engineer brings to a workplace environment to increase productivity. 
 - To Analyze and evaluate various developer operation implementations available and implement hands-on work using
 industry standard toolkit. 
 - To Create solutions to complex business problems by adhering to the core
 responsibilities of DevOps
+- To Use Git workflows for safe, version-controlled software releases
+- To Make architectural decisions between monolith and microservices
+- To Monitor code quality and deploy to cloud hosting platforms
+- To Work with Infrastructure as Code and explore cloud computing benefits
