@@ -1,7 +1,13 @@
 GEORGE BROWN COLLEGE
 
-George Brown College is a leading public college located in Toronto, Ontario, Canada.
-It was founded in 1967 and offers a wide range of programs in business, health sciences, technology, and community services.
-The college emphasizes hands-on learning through industry partnerships and real-world projects.
-With multiple campuses across downtown Toronto, students gain access to a vibrant and diverse city environment.
-George Brown focuses on preparing students for career-ready skills and lifelong learning.
+- George Brown College is a leading public college located in Toronto, Ontario, Canada.
+- It was founded in 1967 and offers a wide range of programs in business, health sciences, 
+technology, and community services.
+- The college emphasizes hands-on learning through industry partnerships and real-world projects.
+- With multiple campuses across downtown Toronto, students gain access to a vibrant and diverse city environment.
+- George Brown focuses on preparing students for career-ready skills and lifelong learning.
+
+- I am currently doing Advanced Diploma in Computer Programming and Analysis at George Brown 
+College (Casa Loma Campus)
+- So far I have a very good experience at GBC.
+- I am lucky to be a part of GBC
