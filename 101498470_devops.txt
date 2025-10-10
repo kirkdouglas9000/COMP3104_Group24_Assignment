@@ -1,0 +1,1 @@
+COMP3104 DevOps is a course designed to introduce students to modern software development practices that emphasize collaboration, automation, and continuous delivery. It covers tools like Git, GitHub, CI/CD pipelines, and branching strategies to help students build reliable and scalable applications.
