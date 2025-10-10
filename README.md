@@ -4,7 +4,7 @@
 - **Member 2:** Andrei Gania (101478350) - [GitHub](https://github.com/AndreiGania)
 - **Member 3:** Denrick Viera (101426295) - [GitHub](https://github.com/DenrickShawnViera)
 - **Member 4:** Maaz Akukara (101495272) - [GitHub](https://github.com/AkukaraMaaz)
-- **Member 5:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
+- **Member 5:** Idrish Kaidawala (101498470) - [GitHub](https://github.com/Idrishkaidawala)
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on
 collaborative Git workflows, branching strategies, and CI/CD integration.
